@@ -1,0 +1,5 @@
+import sys import argv
+
+script, filehandle = argv
+
+read.filehandle()
